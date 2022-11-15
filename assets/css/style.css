@@ -1,0 +1,233 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body a{
+    text-decoration: none;
+    color: #343434;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-header{
+    background-color:  #419DF4;
+    max-width:1320px;
+    height:70px;
+    margin:auto;
+}
+.top-header .logo img{
+    width:89.73px;
+    height:50px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+main .one{
+    max-width:1320px;
+    height:500px;
+    background-color: #E8F0FF;
+    margin:auto;
+    padding-top:35px;
+}
+main .one .frame h2{
+    line-height:72px;
+    font-size:48px;
+    font-weight:600px;
+    color: #343434;
+    padding-left:10px;
+}
+main .one .content {
+    width:501px;
+    height:79px;
+    padding-left:10px;
+    color: #343434;
+    line-height: 24px;
+}
+main .one button{
+    width:218px;
+    height:52px;
+    background-color:#4885ED;
+    border-radius: 46px;
+    margin-left:10px;
+    margin-top:20px;
+    outline:none;
+    border:1px solid #4885ED;
+    color:white;
+    font-size:24px;
+    font-weight: 600;
+    
+}
+main .one button img{
+    padding-right:10px;
+}
+
+main .info{
+    max-width:1320px;
+    margin:auto;
+    padding-left:12px;
+    padding-top:  66px;    
+    padding-left:12px;
+}
+main .info .content-three h2{
+    font-size:48px;
+    line-height:72px;
+}
+main .info .content-three p{
+    width:928px;
+    height:75px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 38px;
+    line-height: 24px;
+}
+
+main .info .box-one{
+    width: 350px;
+    height: 350px;
+    border-radius:50%;
+    background-color:#4CCA77;
+    margin:auto;
+    color:white;
+    margin-top: 70px;
+    text-align: center;
+    padding-left:30px;
+    padding-right: 30px;
+}
+main .info .box-one i{
+    font-weight: 900;
+    font-size: 52px;
+    padding-top: 50px;
+}
+main .info .box-one h2{
+    font-weight: 700;
+    font-size: 32px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+main .info .box-two{
+    width: 350px;
+    height:350px;
+    background-color:#4CCA77;
+    border: 10px solid #4885ED;
+    border-radius: 50px 0px;
+    text-align: center;
+    color:white;
+    margin:70px 930px 0;
+    padding:0 20px;
+}
+main .info .box-two i{
+    font-weight: 900;
+    font-size: 52px;
+    padding-top: 50px;
+}
+main .info .box-two h2{
+    font-weight: 700;
+    font-size: 32px;
+    padding:20px 0;
+}
+main .info .box-three{
+    width: 350px;
+    height:350px;
+    background-color:#4CCA77;
+    border: 10px solid #4885ED;
+    outline:10px solid rgb(223, 205, 205);
+    text-align: center;
+    color:white;
+    margin:auto;
+    margin-top:70px;
+    padding:0 20px;
+}
+main .info .box-three i{
+    font-weight: 900;
+    font-size: 52px;
+    padding-top: 50px;
+}
+main .info .box-three h2{
+    font-weight: 700;
+    font-size: 32px;
+    padding:20px 0;
+}
+main .info .box-four{
+    width: 350px;
+    height:350px;
+    background-color:#4CCA77;
+    border: 10px solid #4885ED;
+    border-radius: 50px 0px;
+    text-align: center;
+    color:white;
+    margin-top:70px;
+    padding:0 20px;
+}
+main .info .box-four i{
+    font-weight: 700;
+    font-size: 32px;
+    padding:20px 0;
+}
+main .info .box-four h2{
+    font-weight: 700;
+    font-size: 32px;
+    padding:20px 0;
+}
+main .info .box-five{
+    width: 350px;
+    height:350px;
+    background-color:#4885ED;
+    color:white;
+    text-align: center;
+    margin:70px auto 0;
+    padding:0 30px;
+    
+}
+main .info .box-five img{
+    border-radius:50%;
+    padding:20px 0;
+}
+main .price{
+    max-width:1320px;
+    background-image:url("../images/jobair-1.jpg");
+    background-size:cover;
+    background-position: center;
+    margin: 70px auto 0;
+    padding:77px 0;
+}
+main .price .box-six{
+    max-width: 350px;
+    margin-left: 12px;
+    border: 5px solid #4885ED;
+    text-align: center;
+    background-color: #fff;
+}
+main .price .box-six h2{
+    font-weight: 700;
+    font-size: 24px;
+    color: #343434;
+    padding:32px 0;
+}
+main .price .box-six h3{
+    background-color:#4885ED;
+    color: #fff;
+    font-weight: 700;
+    font-size: 32px;
+    padding:25px 0;
+}
+main .price .box-six .links{
+    margin:38px 0;
+}
+main .price .box-six .links a{
+    display:block;
+    padding:10px 0;
+    background-color:#E8F0FF;
+}
+main .price .box-six .links i{
+    color:#4885ED;
+    padding-right: 10px;
+}
+main .price .box-six .Read-More {
+    font-weight: 600;
+    font-size: 16px;
+    padding:8px 16px ;
+    background-color:#4885ED;
+    color: #FFFFFF;
+    border-radius: 28px;
+    margin-bottom:32px;
+}
